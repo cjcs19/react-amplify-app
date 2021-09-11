@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          "Hello from Amplify develop's Branch"
+          "Hello from Amplify Juan + Carlos en la clase"
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org yo quiero subir algo"
+          href="https://reactjs.org-error"
           target="_blank"
           rel="noopener noreferrer"
         >
